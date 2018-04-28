@@ -1,0 +1,23 @@
+{
+  "name": "angular-openweather-app",
+  "description": "A weather forecast app written in AngularJS.",
+  "main": "app/index.html",
+  "keywords": [
+    "angular",
+    "openweathermap",
+    "weather"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0",
+    "iso-3166-country-codes-angular": "~1.0.2"
+  }
+}
